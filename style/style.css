@@ -6,7 +6,7 @@
     height: 450px;
     padding-left: 70px;
     border-radius: 16px;
-  image-orientation:  linear-gradient(0deg,#585050,#f1e7e7) ;
+ 
     
 }
 .banner{
@@ -90,9 +90,9 @@
     margin-left: 40px;
 }
 .whatisfunctional{
-    padding: 30px;
-    margin-left: 70px;
-    margin-right: 70px;
+    ;
+    margin-left: 100px;
+    margin-right: 100px;
     margin-top: 10px;
 }
 .nice{
