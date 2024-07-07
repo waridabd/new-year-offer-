@@ -6,6 +6,7 @@
     height: 450px;
     padding-left: 70px;
     border-radius: 16px;
+  image-orientation:  linear-gradient(0deg,#585050,#f1e7e7) ;
     
 }
 .banner{
@@ -71,8 +72,14 @@
 .Ellipse{
     width: 200px;
     height: 250px;
-    stroke: coral;
+    border-radius: 50% ;
+    border: 10px solid coral;
+    border-spacing: 20px inset;
+    
+    
+    
 }
+
 .jhamela1{
     width: 33.3%;
 }
